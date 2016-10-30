@@ -6,4 +6,4 @@ A game created with
 * Swing
 * Threads
 
-![alt tag](https://github.com/rodinwow/fat-guy-simulator-game/blob/master/scrn.png)
+![alt tag](https://github.com/rodinwow/screenshots/blob/master/fat-guy-simulator.png)
